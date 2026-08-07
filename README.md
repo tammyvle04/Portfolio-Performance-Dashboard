@@ -13,11 +13,11 @@
 
 ## Data Source
 - Daily historical price data pulled via the `yfinance` Python library (Yahoo Finance).
-### Tickers
-- AAPL
-- JPM
-- JNJ
-- XOM
-- PG
-- NVDA
-- SPY
+### Tickers | Date: Jan. 1, 2021 - Present
+- AAPL (tech)
+- JPM (finance)
+- JNJ (healthcare)
+- XOM (energy)
+- PG (consumer staples)
+- NVDA (tech/semiconductors)
+- SPY (S&P 500 ETF, benchmark)
