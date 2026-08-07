@@ -9,3 +9,8 @@
   (Correlation is important because a portfolio where all the stocks move together isn't actually diversified even if it holds many stocks)
 - How did the portfolio perform vs. the S&P 500 benchmark
   (Indicates whether portfolio's risk-adjusted performance is competitive with a passive market investment)
+
+
+## Data Source
+- Daily historical price data pulled via the `yfinance` Python library (Yahoo Finance).
+### Tickers
