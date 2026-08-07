@@ -13,4 +13,4 @@
 
 ## Data Source
 - Daily historical price data pulled via the `yfinance` Python library (Yahoo Finance).
-### Tickers
+#### Tickers
