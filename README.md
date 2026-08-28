@@ -21,3 +21,12 @@
 - PG (consumer staples)
 - NVDA (tech/semiconductors)
 - SPY (S&P 500 ETF, benchmark)
+
+## Key Findings
+- Portfolio grew from ~$10,000 to ~$51,400 over the period, vs. ~$22,600 for the same investment in the S&P 500, which is 2.3x the benchmark's growth.
+- This performance was concentrated in one holding: NVDA returned a positive 1,582% over the period, while the remaining five holdings averaged closer to a positive 180% combined.
+- Correlation analysis showed that the portfolio is moderately diversified overall, but AAPL and NVDA are the most correlated pair (0.48). This means the portfolio's biggest source of risk concentration is in its two tech holdings.
+
+ ### Recommendation
+ Although the portfolio outperformed the market, its return is not representative of what a similarly constructed equal weighted portfolio would normally achieve. The result should be read as a specific mix, at a specific time, benefitting heavily from one outlier holding, instead of a repeatable diversification strategy
+ 
