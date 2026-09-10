@@ -22,11 +22,26 @@
 - NVDA (tech/semiconductors)
 - SPY (S&P 500 ETF, benchmark)
 
+
+### Approach
+- Python: Pulled information from public stock records to calculate returns, volatility, and correlation.
+- SQL: Ran summary queries to calculate individual averages, best/worst days, and number of positive/negative days.
+- Tableau: Used cleaned data to build interactive dashboard visualizing growth trajectory, portfolio vs. benchmark comparison, volatility, and correlation across holdings.
+- Excel
+
+
 ## Key Findings
-- Portfolio grew from ~$10,000 to ~$51,400 over the period, vs. ~$22,600 for the same investment in the S&P 500, which is 2.3x the benchmark's growth.
+- Portfolio grew from $10,000 to ~$51,400 over the period, vs. $10,000 to ~$22,400 for the same investment in the S&P 500, which is ~2.3x the benchmark's growth.
 - This performance was concentrated in one holding: NVDA returned a positive 1,582% over the period, while the remaining five holdings averaged closer to a positive 180% combined.
 - Correlation analysis showed that the portfolio is moderately diversified overall, but AAPL and NVDA are the most correlated pair (0.48). This means the portfolio's biggest source of risk concentration is in its two tech holdings.
+- NVDA's worst trading day occurred on January 27, 2025 driven by market fears following the Chinese AI startup DeepSeek's release of a lower cost AI model.
 
- ### Recommendation
- Although the portfolio outperformed the market, its return is not representative of what a similarly constructed equal weighted portfolio would normally achieve. The result should be read as a specific mix, at a specific time, benefitting heavily from one outlier holding, instead of a repeatable diversification strategy
- 
+
+### Recommendation
+Although the portfolio outperformed the market, the result is not representative of what a typical equal weighted portfolio would normally achieve. It reflects one specific mix, at a specific time, benefitting heavily from one outlier holding (NVDA) rather than a repeatable diversification strategy
+
+## Links
+- Tableau: https://public.tableau.com/views/PorfolioPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+- SQL Queries: portfolio_queries.sql
+- Python: python_portfolio_analysis.ipynb
+- Excel Workbook: 
