@@ -44,4 +44,4 @@ Although the portfolio outperformed the market, the result is not representative
 - Tableau: https://public.tableau.com/views/PorfolioPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 - SQL Queries: portfolio_queries.sql
 - Python: python_portfolio_analysis.ipynb
-- Excel Workbook: 
+- Excel Workbook: Built a pivot table summarizing average daily returns per ticker, used XLOOKUP to pull each ticker's latest price, and compiled a summary tab for quick overview.
