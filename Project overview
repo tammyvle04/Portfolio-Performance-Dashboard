@@ -13,7 +13,7 @@
 
 ## Data Source
 - Daily historical price data pulled via the `yfinance` Python library (Yahoo Finance).
-### Tickers | Date: Jan. 1, 2021 - Present
+### Tickers | Date: January 2021 - August 2026
 - AAPL (tech)
 - JPM (finance)
 - JNJ (healthcare)
