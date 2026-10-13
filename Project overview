@@ -27,7 +27,7 @@
 - Python: Pulled information from public stock records to calculate returns, volatility, and correlation.
 - SQL: Ran summary queries to calculate individual averages, best/worst days, and number of positive/negative days.
 - Tableau: Used cleaned data to build interactive dashboard visualizing growth trajectory, portfolio vs. benchmark comparison, volatility, and correlation across holdings.
-- Excel
+- Excel: Built a pivot table summarizing average daily returns per ticker, used XLOOKUP to pull each ticker's latest price, and compiled an executive summary tab for quick review.
 
 
 ## Key Findings
