@@ -1,4 +1,5 @@
 # Portfolio Performance Dashboard
+### An analysis of a 6-stock portfolio against the S&P 500, using Python, SQL, Tableau, and Excel.
 
 ## Business Problem
 - How did each stock and the overall portfolio perform over time?
