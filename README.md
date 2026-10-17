@@ -42,7 +42,7 @@
 Although the portfolio outperformed the market, the result is not representative of what a typical equal weighted portfolio would normally achieve. It reflects one specific mix, at a specific time, benefitting heavily from one outlier holding (NVDA) rather than a repeatable diversification strategy
 
 ## Links
-- Tableau: https://public.tableau.com/views/PorfolioPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+- Tableau: https://public.tableau.com/app/profile/tammy.le8267/viz/PortfolioPerformanceDashboard_17922031505920/Dashboard1 
 - SQL Queries: portfolio_queries.sql
 - Python: python_portfolio_analysis.ipynb
 - Excel Workbook: portfolio_excel_summary.xlsx
